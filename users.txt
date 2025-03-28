@@ -1,0 +1,4 @@
+user1:x:1001:1001::/home/user1:/bin/bash
+admin:x:0:0::/root:/bin/bash
+guest:x:1002:1002::/home/guest:/bin/false
+testadmin:x:1003:1003::/home/testadmin:/bin/bash
